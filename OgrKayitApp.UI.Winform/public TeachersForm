@@ -1,0 +1,60 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using OgrKayitApp.BLL;
+using OgrKayitApp.Entity;
+
+namespace OgrKayitApp.UI.WinForm
+{
+    public partial class TeachersForm : Form
+    {
+        public TeachersForm()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+        // button_1 is show button
+            TeachersBLL teacherBll = new TeachersBLL();
+
+            dataGridView1.DataSource = teacherBll.GetAllItems();
+        }
+
+        private void btnAdd_Click(object sender, EventArgs e)
+        {
+            Entity.Teachers teacher = new Entity.Teachers();
+
+            teacher.FirstName = FirstNameTb.Text;
+            teacher.SurName = SurNameTb.Text;
+            teacher.Branch = BranchTb.Text;
+
+            TeachersBLL teacherBll = new TeachersBLL();
+
+            try
+            {
+                teacherBll.AddNewItem(teacher);
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.Message);
+            }
+            
+        }
+        ClassroomsForm frm = new ClassroomsForm();
+        private void ClassroomsBtn_Click(object sender, EventArgs e)
+        {
+
+
+            TeachersForm.ActiveForm.Enabled = false;
+            frm.Show();
+        }
+    }
+}
