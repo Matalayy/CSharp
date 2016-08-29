@@ -1,0 +1,74 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Data.SqlClient;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace OBS1
+{
+    public partial class Form1 : Form
+    {
+        SqlConnection conn = new SqlConnection("Data Source=HP-Bilgisayar; Initial Catalog=OBS; User Id=....; password=...;");
+        public Form1()
+        {
+            InitializeComponent();
+            DatagridYenile();
+        }
+        protected void DatagridYenile()
+        {
+            conn.Open();
+            DataTable tbl = new DataTable();
+            SqlDataAdapter adptr = new SqlDataAdapter("Select ogr_id,adi,soyadi,numarasi,email from ogr_table ", conn);
+            adptr.Fill(tbl);
+            conn.Close();
+            dataGridView1.DataSource = tbl;
+        }
+
+        private void btn_ekle_Click(object sender, EventArgs e)
+        {
+            conn.Open();
+            SqlCommand kmt = new SqlCommand("Insert into  ogr_table VALUES  ('" + txt_adi.Text + "','" + txt_Soyadi.Text + "','" + txt_numarasi.Text + "','" + txt_email.Text + "')", conn);
+            kmt.ExecuteNonQuery();
+            conn.Close();
+            DatagridYenile();
+        }
+
+        private void btn_sil_Click(object sender, EventArgs e)
+        {
+            conn.Open();
+            SqlCommand kmt = new SqlCommand("DELETE  ogr_table where ogr_id=" + dataGridView1.CurrentRow.Cells["ogr_id"].Value.ToString(), conn);
+            kmt.ExecuteNonQuery();
+            conn.Close();
+            DatagridYenile();
+        }
+
+        private void btn_guncelle_Click(object sender, EventArgs e)
+        {
+            conn.Open();
+            SqlCommand kmt = new SqlCommand("update  ogr_table set adi='"+txt_adi.Text+"',soyadi='"+txt_Soyadi.Text+"',numarasi='"+txt_numarasi.Text
+                +"',email='"+txt_email.Text+"' where ogr_id=" + 
+                dataGridView1.CurrentRow.Cells["ogr_id"].Value.ToString(), conn);
+            kmt.ExecuteNonQuery();
+            conn.Close();
+            DatagridYenile();
+        }
+
+        private void dataGridView1_CurrentCellChanged(object sender, EventArgs e)
+        {
+            try {
+                txt_adi.Text = dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells["adi"].Value.ToString();
+                txt_Soyadi.Text = dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells["soyadi"].Value.ToString();
+                txt_numarasi.Text = dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells["numarasi"].Value.ToString();
+                txt_email.Text = dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells["email"].Value.ToString();
+            }
+            catch {
+
+            }
+        }
+    }
+}
