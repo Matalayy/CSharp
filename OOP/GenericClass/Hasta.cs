@@ -17,10 +17,6 @@ namespace OOP.GenericClass
         public Temsil HastaOzellikleri { get; set; }
 
         public List<IlacTip> Ilaclar { get; set; }
-
-        //public Rapor Raporlar { get; set; }
-
-        //public Tahlil Tahliller { get; set; }
     }
 
     class Ilac
