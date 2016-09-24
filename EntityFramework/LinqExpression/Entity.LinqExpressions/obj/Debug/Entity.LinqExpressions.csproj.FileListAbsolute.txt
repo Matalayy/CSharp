@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqExpressions\Entity.LinqExpressions\bin\Debug\Entity.LinqExpressions.exe.config
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqExpressions\Entity.LinqExpressions\bin\Debug\Entity.LinqExpressions.exe
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqExpressions\Entity.LinqExpressions\bin\Debug\Entity.LinqExpressions.pdb
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqExpressions\Entity.LinqExpressions\obj\Debug\Entity.LinqExpressions.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqExpressions\Entity.LinqExpressions\obj\Debug\Entity.LinqExpressions.Form1.resources
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqExpressions\Entity.LinqExpressions\obj\Debug\Entity.LinqExpressions.Properties.Resources.resources
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqExpressions\Entity.LinqExpressions\obj\Debug\Entity.LinqExpressions.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqExpressions\Entity.LinqExpressions\obj\Debug\Entity.LinqExpressions.exe
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqExpressions\Entity.LinqExpressions\obj\Debug\Entity.LinqExpressions.pdb
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqExpressions\Entity.LinqExpressions\obj\Debug\Entity.LinqExpressions.Form2.resources
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqExpressions\Entity.LinqExpressions\obj\Debug\Entity.LinqExpressions.Form3.resources
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqExpressions\Entity.LinqExpressions\obj\Debug\Entity.LinqExpressions.Form4.resources
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqExpressions\Entity.LinqExpressions\obj\Debug\Entity.LinqExpressions.Form5.resources
