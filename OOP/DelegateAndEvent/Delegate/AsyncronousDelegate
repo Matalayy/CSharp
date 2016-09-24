@@ -1,0 +1,63 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace OOP.AsyncronousDelegates
+{
+    public partial class Form1 : Form
+    {
+
+        public delegate void SayHandler();
+        public Form1()
+        {
+            InitializeComponent();
+            CheckForIllegalCrossThreadCalls = false;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        void Sayici1()
+        {
+            for (int i = 0; i < 10000; i++)
+            {
+                listBoxSay1.Items.Add(i);
+            }
+        }
+
+        void Takipci1(IAsyncResult sonuc)
+        {
+            SayHandler saydirici = (SayHandler)sonuc.AsyncState;
+            saydirici.EndInvoke(sonuc);
+        }
+
+        private void btnSay1_Click(object sender, EventArgs e)
+        {
+            SayHandler saydirici = new SayHandler(Sayici1);
+            AsyncCallback callback = new AsyncCallback(Takipci1);
+            saydirici.BeginInvoke(callback, saydirici);
+        }
+
+        void sayici2()
+        {
+            for (int i = 0; i < 10000; i++)
+            {
+                listBoxSay2.Items.Add(i);
+            }
+        }
+
+        private void btnSay2_Click(object sender, EventArgs e)
+        {
+            SayHandler saydirici2 = new SayHandler(sayici2);
+            saydirici2.BeginInvoke(Takipci1,saydirici2);
+        }
+    }
+}
