@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.DTO\bin\Debug\NWRP.DTO.dll
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.DTO\bin\Debug\NWRP.DTO.pdb
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.DTO\obj\Debug\NWRP.DTO.dll
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.DTO\obj\Debug\NWRP.DTO.pdb
