@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.OrderApplicationExample\Entity.OrderApplicationExample\bin\Debug\Entity.OrderApplicationExample.exe.config
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.OrderApplicationExample\Entity.OrderApplicationExample\bin\Debug\Entity.OrderApplicationExample.exe
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.OrderApplicationExample\Entity.OrderApplicationExample\bin\Debug\Entity.OrderApplicationExample.pdb
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.OrderApplicationExample\Entity.OrderApplicationExample\obj\Debug\Entity.OrderApplicationExample.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.OrderApplicationExample\Entity.OrderApplicationExample\obj\Debug\Entity.OrderApplicationExample.FormOrder.resources
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.OrderApplicationExample\Entity.OrderApplicationExample\obj\Debug\Entity.OrderApplicationExample.Properties.Resources.resources
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.OrderApplicationExample\Entity.OrderApplicationExample\obj\Debug\Entity.OrderApplicationExample.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.OrderApplicationExample\Entity.OrderApplicationExample\obj\Debug\Entity.OrderApplicationExample.exe
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.OrderApplicationExample\Entity.OrderApplicationExample\obj\Debug\Entity.OrderApplicationExample.pdb
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.OrderApplicationExample\Entity.OrderApplicationExample\obj\Debug\Entity.OrderApplicationExample.FormListSales.resources
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.OrderApplicationExample\Entity.OrderApplicationExample\obj\Debug\Entity.OrderApplicationExample.CustomerSalesPaper.resources
