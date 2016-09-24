@@ -1,4 +1,4 @@
-DataBase => Entity-ORM => Repository => Service =>  DTO(Data Transfer Object)  => WinFormUI
-                                       (webService)
-                                       (WCF)
-                                       (Remoting) 
+DataBase => Entity-ORM => Repository => DTO(Data Transfer Object) =>  Service      => WinFormUI
+                                                                     (webService)
+                                                                     (WCF)
+                                                                     (Remoting) 
