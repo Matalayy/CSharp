@@ -12,9 +12,5 @@ namespace OOP.InterFace
 
         public string Mevki { get; set; }
 
-        public string Adi { get; set; }
-
-        public string Soyadi { get; set; }
-
     }
 }
