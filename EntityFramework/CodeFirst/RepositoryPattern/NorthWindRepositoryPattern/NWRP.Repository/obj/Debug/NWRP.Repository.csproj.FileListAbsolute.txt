@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Repository\bin\Debug\NWRP.Repository.dll.config
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Repository\bin\Debug\NWRP.Repository.dll
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Repository\bin\Debug\NWRP.Repository.pdb
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Repository\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Repository\bin\Debug\NorthWindRepositoryPatern.ORM.dll
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Repository\bin\Debug\NorthWindRepositoryPatern.ORM.pdb
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Repository\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Repository\obj\Debug\NWRP.Repository.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Repository\obj\Debug\NWRP.Repository.dll
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Repository\obj\Debug\NWRP.Repository.pdb
