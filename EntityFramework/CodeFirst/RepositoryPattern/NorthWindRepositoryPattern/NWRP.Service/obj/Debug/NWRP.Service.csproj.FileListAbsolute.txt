@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Service\bin\Debug\NWRP.Service.dll
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Service\bin\Debug\NWRP.Service.pdb
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Service\bin\Debug\NorthWindRepositoryPatern.ORM.dll
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Service\bin\Debug\NWRP.DTO.dll
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Service\bin\Debug\NWRP.Repository.dll
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Service\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Service\bin\Debug\NorthWindRepositoryPatern.ORM.pdb
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Service\bin\Debug\NWRP.DTO.pdb
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Service\bin\Debug\NWRP.Repository.pdb
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Service\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Service\obj\Debug\NWRP.Service.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Service\obj\Debug\NWRP.Service.dll
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Code First - Repository - ORM\NorthWindRepositoryPatern\NWRP.Service\obj\Debug\NWRP.Service.pdb
