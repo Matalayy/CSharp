@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\C# Calisma Klasoru\OOP\OOP.OtoparkUygulamasi\OOP.OtoparkUygulamasi\bin\Debug\OOP.OtoparkUygulamasi.exe.config
+C:\Users\HP\Desktop\C# Calisma Klasoru\OOP\OOP.OtoparkUygulamasi\OOP.OtoparkUygulamasi\bin\Debug\OOP.OtoparkUygulamasi.exe
+C:\Users\HP\Desktop\C# Calisma Klasoru\OOP\OOP.OtoparkUygulamasi\OOP.OtoparkUygulamasi\bin\Debug\OOP.OtoparkUygulamasi.pdb
+C:\Users\HP\Desktop\C# Calisma Klasoru\OOP\OOP.OtoparkUygulamasi\OOP.OtoparkUygulamasi\obj\Debug\OOP.OtoparkUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\C# Calisma Klasoru\OOP\OOP.OtoparkUygulamasi\OOP.OtoparkUygulamasi\obj\Debug\OOP.OtoparkUygulamasi.Form1.resources
+C:\Users\HP\Desktop\C# Calisma Klasoru\OOP\OOP.OtoparkUygulamasi\OOP.OtoparkUygulamasi\obj\Debug\OOP.OtoparkUygulamasi.Properties.Resources.resources
+C:\Users\HP\Desktop\C# Calisma Klasoru\OOP\OOP.OtoparkUygulamasi\OOP.OtoparkUygulamasi\obj\Debug\OOP.OtoparkUygulamasi.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\C# Calisma Klasoru\OOP\OOP.OtoparkUygulamasi\OOP.OtoparkUygulamasi\obj\Debug\OOP.OtoparkUygulamasi.exe
+C:\Users\HP\Desktop\C# Calisma Klasoru\OOP\OOP.OtoparkUygulamasi\OOP.OtoparkUygulamasi\obj\Debug\OOP.OtoparkUygulamasi.pdb
+C:\Users\HP\Desktop\C# Calisma Klasoru\OOP\OOP.OtoparkUygulamasi\OOP.OtoparkUygulamasi\obj\Debug\OOP.OtoparkUygulamasi.Rapor.resources
