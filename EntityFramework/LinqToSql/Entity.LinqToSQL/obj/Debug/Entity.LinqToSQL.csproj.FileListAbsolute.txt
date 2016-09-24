@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqToSQL\Entity.LinqToSQL\bin\Debug\Entity.LinqToSQL.exe.config
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqToSQL\Entity.LinqToSQL\bin\Debug\Entity.LinqToSQL.exe
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqToSQL\Entity.LinqToSQL\bin\Debug\Entity.LinqToSQL.pdb
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqToSQL\Entity.LinqToSQL\obj\Debug\Entity.LinqToSQL.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqToSQL\Entity.LinqToSQL\obj\Debug\Entity.LinqToSQL.Form1.resources
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqToSQL\Entity.LinqToSQL\obj\Debug\Entity.LinqToSQL.Properties.Resources.resources
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqToSQL\Entity.LinqToSQL\obj\Debug\Entity.LinqToSQL.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqToSQL\Entity.LinqToSQL\obj\Debug\Entity.LinqToSQL.exe
+C:\Users\HP\Desktop\C# Calisma Klasoru\ENTITY FRAMEWORK\Linq To SQL\Entity.LinqToSQL\Entity.LinqToSQL\obj\Debug\Entity.LinqToSQL.pdb
