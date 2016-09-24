@@ -1,1 +1,1 @@
-LinqtoSql , linqExpression , lamda islemlerini daha iyi analam icin yapilmis ufak bir uygulamadir.
+LinqtoSql , linqExpression , lamda islemlerini daha iyi anlamak icin yapilmis ufak bir uygulamadir.
