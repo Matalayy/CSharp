@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\C# Calisma Klasoru\OOP\OOP.Delegate_And_Event\OOP.Delegate_And_Event\bin\Debug\OOP.Delegate_And_Event.exe.config
+C:\Users\HP\Desktop\C# Calisma Klasoru\OOP\OOP.Delegate_And_Event\OOP.Delegate_And_Event\bin\Debug\OOP.Delegate_And_Event.exe
+C:\Users\HP\Desktop\C# Calisma Klasoru\OOP\OOP.Delegate_And_Event\OOP.Delegate_And_Event\bin\Debug\OOP.Delegate_And_Event.pdb
+C:\Users\HP\Desktop\C# Calisma Klasoru\OOP\OOP.Delegate_And_Event\OOP.Delegate_And_Event\obj\Debug\OOP.Delegate_And_Event.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\C# Calisma Klasoru\OOP\OOP.Delegate_And_Event\OOP.Delegate_And_Event\obj\Debug\OOP.Delegate_And_Event.Form1.resources
+C:\Users\HP\Desktop\C# Calisma Klasoru\OOP\OOP.Delegate_And_Event\OOP.Delegate_And_Event\obj\Debug\OOP.Delegate_And_Event.Properties.Resources.resources
+C:\Users\HP\Desktop\C# Calisma Klasoru\OOP\OOP.Delegate_And_Event\OOP.Delegate_And_Event\obj\Debug\OOP.Delegate_And_Event.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\C# Calisma Klasoru\OOP\OOP.Delegate_And_Event\OOP.Delegate_And_Event\obj\Debug\OOP.Delegate_And_Event.exe
+C:\Users\HP\Desktop\C# Calisma Klasoru\OOP\OOP.Delegate_And_Event\OOP.Delegate_And_Event\obj\Debug\OOP.Delegate_And_Event.pdb
