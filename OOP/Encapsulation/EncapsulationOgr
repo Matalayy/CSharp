@@ -1,0 +1,84 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace OOP.Encapsulation
+{
+    class EncapsulatinOgr
+    {
+        private string adi;
+
+        public string Adi
+        {
+            get { return adi; }
+            set
+            {
+                if (value == "" || value == " " || value == "Alper")
+                    throw new Exception("Bu degerler girilemez.");
+                adi = value;
+            }
+        }
+
+        public string Soyadi { get; set; } // Auto Propherty
+
+        private DateTime dogumtarihi;
+
+        public DateTime DogumTarihi
+        {
+            get { return dogumtarihi; }
+            set
+            {
+                if (value <= DateTime.Now)
+                    dogumtarihi = value;
+                else
+                    dogumtarihi = DateTime.Now;
+            }
+        }
+
+        public int yas
+        {
+            get { return (int)(DateTime.Now-DogumTarihi).TotalDays/365; }
+        }
+
+        double vize;
+        public double Vize
+        {
+            get
+            {
+                return vize;
+            }
+
+            set
+            {
+                if(value >= 0 && value <= 100)
+                    vize = value;
+            }
+        }
+
+        double final;
+        public double Final
+        {
+            get
+            {
+                return final;
+            }
+
+            set
+            {
+                if(value >= 0 && value <= 100)
+                    final = value;
+            }
+        }
+
+        public double Ortalama
+        {
+            get
+            {
+                return Vize * 0.4 + Final * 0.6;
+            }
+            set { }
+        }
+    }
+}
