@@ -1,1 +1,1 @@
-Linq expression islemlerini gistermek icin yapilmistir.
+Linq expression islemlerini gostermek icin yapilmistir.
